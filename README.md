@@ -1,1 +1,3 @@
 # LP-Codes-Text-Case-Converter-Editor
+
+ A Small Utility Made Using Python For Quickly Editing Text Cases Comes Handy When Dealing With Large Text ..,Will add more features when getting time ...
